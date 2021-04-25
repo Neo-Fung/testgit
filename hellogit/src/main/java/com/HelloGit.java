@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("update 2");
         System.out.println("update 3");
         System.out.println("update by branch dev");
+        System.out.println("update by master clone");
     }
 }
